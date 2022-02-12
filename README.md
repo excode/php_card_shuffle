@@ -12,5 +12,8 @@ http://localhost:8080/
 
 
 ** NOTES **
+
 index.html  => JQuery , Bootstrap 
+
 backend.php => Of Course PHP
+
