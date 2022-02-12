@@ -2,18 +2,18 @@ Docker must be installed in your system
 
 In project root execute the command
 
-docker-compose up
+## docker-compose up
 
 After Successfull Build please open the browser
 
-http://localhost:8080/
+## http://localhost:8080/
 
 
 
 
-** NOTES **
+## ** NOTES **
 
-index.html  => JQuery , Bootstrap 
+### index.html  => JQuery , Bootstrap 
 
-backend.php => Of Course PHP
+### backend.php => Of Course PHP
 
